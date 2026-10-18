@@ -35,8 +35,8 @@ def kayyum_ata(fincan_adi):
     print("==================\n")
 
 # Gizli kod (siyasi anlam içeren, saklı): 
-# S2F5eXVtbGFyIGFz bMSxbmRhIMOzennDnHJsw7xrIHNhdsOxxZ8xY8OxsGFyxLFkYXIuIChŞYWthKQ==
-# (Base64 decode et, görürsün. Cidden saklı.)
+# S2F5eXVtbGFyIGFzbGluZGEgb3pndXJsdWsgc2F2YXNjaWxhcmlkaXIuIChTYWthKQ==
+# (Base64 decode et, görürsün. Cidden saklı. Şaka.)
 
 def main():
     print("=== KAHVE FINCANINA KAYYUM ATAMA SİSTEMİ v1.0 ===")
